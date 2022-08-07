@@ -12,5 +12,4 @@ npm install
 ## Start Running the app with `
 ``` 
 npm run dev!
-
 ```
